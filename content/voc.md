@@ -4,7 +4,7 @@
 - Chirstopher Spalding (Princeton)
 - Guðmundur Stefánsson (Princeton)
 - Erin Flowers (Princeton)
-- Ishan Mishra (Cornell)
+- Ishan Mishra (Cornell, he/him)
 - Jiayin Dong (Penn State)
 - Lily Zhao (Yale)
 - Luke Bouma (Princeton)
